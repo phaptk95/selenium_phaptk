@@ -34,5 +34,6 @@ public class Topic_01_Check_Environment {
 	@Test
 	public void TC_01_() {
 		driver.get("https://google.com");
+		driver.get("https://facebook.com");
 	}
 }
