@@ -16,3 +16,17 @@
 #### MsEdge Driver : 
 - https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
+#### Firefox Driver : 
+- https://github.com/mozilla/geckodriver/releases
+
+#### Chrome Driver : 
+- https://chromedriver.storage.googleapis.com/index.html
+- https://chromedriver.chromium.org/downloads
+
+#### Safari Driver : 
+- https://www.browserstack.com/guide/run-selenium-tests-on-safari-using-safaridriver
+
+
+
+ - NOTE : Set Permission for file driver to executed 
+
